@@ -10,14 +10,14 @@
     {
       "id": "assets",
       "name": "The Music Update",
-      "description": "Title Music used from 1.7.2-1.17.1.\n\nComposed by C418.",
+      "description": "Title Music used in 1.7.2-1.17.1.\n\nComposed by C418.",
       "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/the-music-update.zip",
       "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/the-music-update.png"
     },
     {
       "id": "assets",
       "name": "Classic Legacy",
-      "description": "Title Music used from TU1-TU19 of Legacy Console Editions of Minecraft.\n\nComposed by C418.",
+      "description": "Title Music used in TU1-TU19 of Legacy Console Editions of Minecraft.\n\nComposed by C418.",
       "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/classic-legacy.zip",
       "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/classic-legacy.png"
     }
