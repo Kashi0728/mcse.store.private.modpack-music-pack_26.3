@@ -2,6 +2,13 @@
   "packs": [
     {
       "id": "assets",
+      "name": "Caves & Cliffs",
+      "description": "Title Music used in 1.18 (Caves & Cliffs Part II).\n\nComposed by Lena Raine.",
+      "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/caves-&-cliffs-2.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/caves-&-cliffs-2.png"
+    },
+    {
+      "id": "assets",
       "name": "The Music Update",
       "description": "Title Music used from 1.7.2-1.17.1.\n\nComposed by C418.",
       "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/the-music-update.zip",
