@@ -3,14 +3,35 @@
     {
       "id": "assets",
       "name": "Steam Edition",
-      "description": "Default Title Music used in Steam Edition.\n\nComposed by Lena Raine, Aaron Cherof, Kumi Tanioka, Fingerspit & C418.",
+      "description": "Default Title Music used in Steam Edition.\n\nComposed by Lena Raine, Aaron Cherof, Fingerspit & C418.",
       "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/steam-edition.zip",
       "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/steam-edition.png"
     },
     {
       "id": "assets",
+      "name": "Chaos Cubed",
+      "description": "Title Music used in 26.2-26.3.\n\nComposed by Fingerspit & C418.",
+      "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/chaos-cubed.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/chaos-cubed.png"
+    },
+    {
+      "id": "assets",
+      "name": "Chase the Skies",
+      "description": "Title Music used in 1.21.6-26.1.2.\n\nComposed by Amos Roddy & C418.",
+      "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/chase-the-skies.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/chase-the-skies.png"
+    },
+    {
+      "id": "assets",
+      "name": "Tricky Trials",
+      "description": "Title Music used in 1.21-1.21.5.\n\nComposed by Aaron Cherof, Kumi Tanioka, Lena Raine & C418.",
+      "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/tricky-trials.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/tricky-trials.png"
+    },
+    {
+      "id": "assets",
       "name": "Trails & Tales",
-      "description": "Title Music used in 1.19 (The Wild Update).\n\nComposed by Lena Raine & C418.",
+      "description": "Title Music used in 1.19 (The Wild Update).\n\nComposed by Aaron Cherof & C418.",
       "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/trails-&-tales.zip",
       "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/trails-&-tales.png"
     },
