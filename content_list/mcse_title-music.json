@@ -2,6 +2,13 @@
   "packs": [
     {
       "id": "assets",
+      "name": "Steam Edition",
+      "description": "Default Title Music used in Steam Edition.\n\nComposed by Lena Raine, Aaron Cherof, Kumi Tanioka, Fingerspit & C418.",
+      "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/steam-edition.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/preview_images/steam-edition.png"
+    },
+    {
+      "id": "assets",
       "name": "Caves & Cliffs",
       "description": "Title Music used in 1.18 (Caves & Cliffs Part II).\n\nComposed by Lena Raine & C418.",
       "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-music-pack_26.3/content/caves-&-cliffs-2.zip",
